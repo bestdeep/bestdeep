@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm BestDeep 👋</h1>
+<h1 align="center">Hi, I'm Lucky Star 👋</h1>
 <h3 align="center">AI & Blockchain Engineer · Full-Stack Developer</h3>
 
 <p align="center">
@@ -143,8 +143,8 @@ I also build the full-stack pieces around them, including APIs, dashboards, brow
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bestdeep&theme=tokyonight" alt="GitHub stats" />
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bestdeep&theme=tokyonight" alt="Top languages by commit" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api?username=bestdeep&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&show=contributions&include_all_commits=true&hide=issues&custom_title=Lucky%20Star%27s%20GitHub%20Stats" alt="GitHub stats" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=bestdeep&layout=compact&theme=tokyonight&hide_border=true&langs_count=5&exclude_repo=ai&size_weight=0.5&count_weight=0.5" alt="Top languages" />
 </p>
 
 <p align="center">
