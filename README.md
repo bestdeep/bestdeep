@@ -143,8 +143,8 @@ I also build the full-stack pieces around them, including APIs, dashboards, brow
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-stats-extended.vercel.app/api?username=bestdeep&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&show=contributions&include_all_commits=true&hide=issues&custom_title=Lucky%20Star%27s%20GitHub%20Stats" alt="GitHub stats" />
-  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=bestdeep&layout=compact&theme=tokyonight&hide_border=true&langs_count=5&exclude_repo=ai&size_weight=0.5&count_weight=0.5" alt="Top languages" />
+  <img height="180" src="./profile/stats.svg" alt="GitHub stats" />
+  <img height="180" src="./profile/top-langs.svg" alt="Top languages" />
 </p>
 
 <p align="center">
